@@ -35,8 +35,7 @@ psutil
 pure-eval           
 Pygments            
 python-dateutil   
-pytz                
-pywin32             
+pytz                             
 pyzmq               
 six                 
 sqlparse            
@@ -49,4 +48,4 @@ traitlets
 typing_extensions   
 tzdata              
 wcwidth    
-pywin32         
+         
