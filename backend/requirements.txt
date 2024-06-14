@@ -48,4 +48,5 @@ tornado
 traitlets           
 typing_extensions   
 tzdata              
-wcwidth             
+wcwidth    
+pywin32         
